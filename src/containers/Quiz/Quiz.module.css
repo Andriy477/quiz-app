@@ -1,0 +1,21 @@
+.Quiz {
+    display: flex;
+    justify-content: center;
+    padding-top: 100px;
+    flex-grow: 1;
+    width: 100%;
+    /*background: linear-gradient(180deg,#f69005 0%, #faff00 100%);*/
+    background: url("https://s2.best-wallpaper.net/wallpaper/1920x1200/1710/Symphony-notes-piano-dust_1920x1200.jpg") center center/cover no-repeat;
+}
+
+.Quiz h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.QuizWrapper {
+    width: 600px;
+}
