@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df9e2c66-034b-40be-bcac-a1e308a954b8" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Navigation/MenuToggle/MenuToggle.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Backdrop/Backdrop.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/hoc/Layout/Layout.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +57,7 @@
       <updated>1587546439199</updated>
       <workItem from="1587546443659" duration="18828000" />
       <workItem from="1587589962335" duration="263000" />
-      <workItem from="1587626971927" duration="40000" />
+      <workItem from="1587626971927" duration="3171000" />
     </task>
     <servers />
   </component>
@@ -59,6 +65,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="223" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587627046703">
+      <screen x="0" y="43" width="1536" height="821" />
+    </state>
+    <state x="223" y="108" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.43.1536.821/-1440.40.1440.860@0.43.1536.821" timestamp="1587627046703" />
     <state x="499" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1587546806352">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
