@@ -1,0 +1,29 @@
+.Auth {
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    flex-grow: 1;
+    width: 100%;
+    background: url("https://99px.ru/sstorage/53/2018/04/tmb_225806_558355.jpg") center center/cover no-repeat;
+}
+
+.Auth > div {
+    width: 100%;
+    max-width: 600px;
+    padding: 0 20px;
+}
+
+.Auth h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 20px;
+    margin-left: 10px;
+}
+
+.AuthForm {
+    background-color: #fff;
+    box-shadow: 2px 2px 2px rgba(0,0,0,.5);
+    padding: 15px;
+    border-radius: 5px;
+}
