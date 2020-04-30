@@ -2,19 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df9e2c66-034b-40be-bcac-a1e308a954b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizCreator/QuizCreator.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/containers/QuizList/QuizList.module.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/UI/Input/Input.module.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/FinishedQuiz/FinishedQuiz.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navigation/Drawer/Drawer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/containers/Auth/Auth.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/containers/Auth/Auth.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +15,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -67,6 +58,7 @@
       <workItem from="1587654767912" duration="935000" />
       <workItem from="1587668952939" duration="3184000" />
       <workItem from="1588006764190" duration="1508000" />
+      <workItem from="1588236256252" duration="2195000" />
     </task>
     <servers />
   </component>
@@ -82,13 +74,13 @@
       <screen x="0" y="43" width="1536" height="821" />
     </state>
     <state x="499" y="200" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.43.1536.821/-1440.40.1440.860@0.43.1536.821" timestamp="1587546806352" />
-    <state x="277" y="96" key="SettingsEditor" timestamp="1587670151593">
+    <state x="277" y="96" key="SettingsEditor" timestamp="1588236476837">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state x="277" y="96" key="SettingsEditor/0.43.1536.821/-1440.40.1440.860@0.43.1536.821" timestamp="1587670151593" />
-    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1587670819365">
+    <state x="277" y="96" key="SettingsEditor/0.43.1536.821/-1440.40.1440.860@0.43.1536.821" timestamp="1588236476837" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1588237844314">
       <screen x="0" y="43" width="1536" height="821" />
     </state>
-    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.43.1536.821/-1440.40.1440.860@0.43.1536.821" timestamp="1587670819365" />
+    <state x="431" y="185" width="672" height="678" key="search.everywhere.popup/0.43.1536.821/-1440.40.1440.860@0.43.1536.821" timestamp="1588237844314" />
   </component>
 </project>
